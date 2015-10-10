@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path style="opacity:0.25;fill:#383938;enable-background:new    ;" d="M160.766,486.12
+			c89.822-13.099,197.421-14.035,290.986-0.936l-0.936-75.787l-290.05,1.871V486.12z"/>
+		<g>
+			<polygon style="fill:#F2F2F2;" points="356.316,122.024 356.316,140.269 442.395,140.269 442.395,409.735 172.929,409.735 
+				172.929,376.312 154.684,376.312 154.684,412.024 154.684,427.98 154.684,472.216 460.64,472.216 460.64,427.98 460.64,412.024 
+				460.64,122.024 			"/>
+		</g>
+	</g>
+	<radialGradient id="SVGID_1_" cx="254.7983" cy="246.1272" r="322.7971" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#04B187"/>
+		<stop  offset="1" style="stop-color:#406EA7"/>
+	</radialGradient>
+	<polygon style="fill:url(#SVGID_1_);" points="356.316,316.12 356.316,332.076 356.316,376.312 172.929,376.312 172.929,409.735 
+		442.395,409.735 442.395,140.269 356.316,140.269 	"/>
+	<g>
+		<path style="opacity:0.25;fill:#383938;enable-background:new    ;" d="M56.909,390.217
+			c89.822-13.099,197.421-14.035,290.986-0.936l-0.936-75.787l-290.05,1.871V390.217z"/>
+		<g>
+			<path style="fill:#F2F2F2;" d="M50.36,26.12v290v15.956v44.236h104.325h18.245h183.386v-44.236V316.12V140.269v-18.245V26.12
+				H50.36z M338.071,140.269v173.562H172.929h-18.245H68.605V44.365h269.466v77.659V140.269z"/>
+		</g>
+	</g>
+	<radialGradient id="SVGID_2_" cx="254.7983" cy="246.1272" r="322.7971" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#04B187"/>
+		<stop  offset="1" style="stop-color:#406EA7"/>
+	</radialGradient>
+	<polygon style="fill:url(#SVGID_2_);" points="338.071,313.831 338.071,140.269 338.071,122.024 338.071,44.365 68.605,44.365 
+		68.605,313.831 154.684,313.831 172.929,313.831 	"/>
+	<g>
+		<polygon style="fill:#5DC4B8;" points="334.084,310.61 276.855,409.735 391.313,409.735 		"/>
+		<polygon style="fill:#70C9BE;" points="230.525,340.699 190.667,409.735 270.382,409.735 		"/>
+		<polygon style="fill:#29B99A;" points="421.87,376.883 402.903,409.735 440.837,409.735 		"/>
+		<polygon style="fill:#5DC4B8;" points="96.374,268.823 70.389,313.831 122.36,313.831 		"/>
+		<circle style="fill:#FFD111;" cx="206.145" cy="177.825" r="66.264"/>
+	</g>
+</g>
+</svg>
