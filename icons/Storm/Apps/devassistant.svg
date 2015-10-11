@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<radialGradient id="SVGID_1_" cx="256" cy="256" r="230" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.8657" style="stop-color:#000000;stop-opacity:0.1343"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</radialGradient>
+	<rect x="26" y="26" fill="url(#SVGID_1_)" width="460" height="460"/>
+	<rect x="56" y="56" fill="#FFFFFF" width="400" height="400"/>
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="96" y1="256" x2="199.4316" y2="256">
+			<stop  offset="0" style="stop-color:#E3E3E3"/>
+			<stop  offset="1" style="stop-color:#424242"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_2_)" points="96,152.6 96,359.4 199.4,256 		"/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="256" y1="199.4316" x2="256" y2="96">
+			<stop  offset="0" style="stop-color:#424242"/>
+			<stop  offset="1" style="stop-color:#E3E3E3"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_3_)" points="359.4,96 152.6,96 256,199.4 		"/>
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="256" y1="416" x2="256" y2="312.5684">
+			<stop  offset="0" style="stop-color:#E3E3E3"/>
+			<stop  offset="1" style="stop-color:#424242"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_4_)" points="152.6,416 359.4,416 256,312.6 		"/>
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="312.5684" y1="256" x2="416" y2="256">
+			<stop  offset="0" style="stop-color:#424242"/>
+			<stop  offset="1" style="stop-color:#E3E3E3"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_5_)" points="416,359.4 416,152.6 312.6,256 		"/>
+	</g>
+	<g>
+		<path fill="#3D6EB2" d="M56,56v400l200-200L56,56z M96,152.6L199.4,256L96,359.4V152.6z"/>
+		<path fill="#2A4273" d="M256,256L56,456h400L256,256z M256,312.6L359.4,416H152.6L256,312.6z"/>
+		<path fill="#E0E0E0" d="M256,256l200,200V56L256,256z M416,359.4L312.6,256L416,152.6V359.4z"/>
+		<path fill="#EFEFEF" d="M56,56l200,200L456,56H56z M152.6,96h206.9L256,199.4L152.6,96z"/>
+	</g>
+</g>
+</svg>
