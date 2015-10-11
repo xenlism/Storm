@@ -6,28 +6,22 @@
 <g>
 	<g>
 		<path style="opacity:0.25;fill:#383938;enable-background:new    ;" d="M160.766,486.12
-			c89.822-13.099,197.421-14.035,290.986-0.936l-0.936-75.787l-290.05,1.871V486.12z"/>
+			c89.822-13.099,197.421-14.035,290.986-0.936l-0.936-75.787l-290.05,1.871L160.766,486.12L160.766,486.12z"/>
 		<g>
 			<polygon style="fill:#F2F2F2;" points="356.316,122.024 356.316,140.269 442.395,140.269 442.395,409.735 172.929,409.735 
 				172.929,376.312 154.684,376.312 154.684,412.024 154.684,427.98 154.684,472.216 460.64,472.216 460.64,427.98 460.64,412.024 
 				460.64,122.024 			"/>
 		</g>
 	</g>
-	<radialGradient id="SVGID_1_" cx="254.7983" cy="246.1272" r="322.7971" gradientUnits="userSpaceOnUse">
+	
+		<radialGradient id="SVGID_1_" cx="254.7983" cy="265.8728" r="322.7971" gradientTransform="matrix(1 0 0 -1 0 512)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#04B187"/>
 		<stop  offset="1" style="stop-color:#406EA7"/>
 	</radialGradient>
 	<polygon style="fill:url(#SVGID_1_);" points="356.316,316.12 356.316,332.076 356.316,376.312 172.929,376.312 172.929,409.735 
 		442.395,409.735 442.395,140.269 356.316,140.269 	"/>
-	<g>
-		<path style="opacity:0.25;fill:#383938;enable-background:new    ;" d="M56.909,390.217
-			c89.822-13.099,197.421-14.035,290.986-0.936l-0.936-75.787l-290.05,1.871V390.217z"/>
-		<g>
-			<path style="fill:#F2F2F2;" d="M50.36,26.12v290v15.956v44.236h104.325h18.245h183.386v-44.236V316.12V140.269v-18.245V26.12
-				H50.36z M338.071,140.269v173.562H172.929h-18.245H68.605V44.365h269.466v77.659V140.269z"/>
-		</g>
-	</g>
-	<radialGradient id="SVGID_2_" cx="254.7983" cy="246.1272" r="322.7971" gradientUnits="userSpaceOnUse">
+	
+		<radialGradient id="SVGID_2_" cx="254.7983" cy="265.8728" r="322.7971" gradientTransform="matrix(1 0 0 -1 0 512)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#04B187"/>
 		<stop  offset="1" style="stop-color:#406EA7"/>
 	</radialGradient>
@@ -39,6 +33,14 @@
 		<polygon style="fill:#29B99A;" points="421.87,376.883 402.903,409.735 440.837,409.735 		"/>
 		<polygon style="fill:#5DC4B8;" points="96.374,268.823 70.389,313.831 122.36,313.831 		"/>
 		<circle style="fill:#FFD111;" cx="206.145" cy="177.825" r="66.264"/>
+	</g>
+	<g>
+		<path style="opacity:0.25;fill:#383938;enable-background:new    ;" d="M56.909,390.217
+			c89.822-13.099,197.421-14.035,290.986-0.936l-0.936-75.787l-290.05,1.871C56.909,315.365,56.909,390.217,56.909,390.217z"/>
+		<g>
+			<path style="fill:#F2F2F2;" d="M50.36,26.12v290v15.956v44.236h104.325h18.245h183.386v-44.236V316.12V140.269v-18.245V26.12
+				H50.36z M338.071,140.269v173.562H172.929h-18.245H68.605V44.365h269.466v77.659V140.269z"/>
+		</g>
 	</g>
 </g>
 </svg>

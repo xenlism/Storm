@@ -4,11 +4,13 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="34.8989" y1="405.5685" x2="513.418" y2="81.8641" gradientTransform="matrix(1 0 0 -1 0 512)">
-		<stop  offset="0" style="stop-color:#121212"/>
+	<radialGradient id="SVGID_1_" cx="256" cy="256" r="230" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#080055"/>
+		<stop  offset="0.1874" style="stop-color:#07004D"/>
+		<stop  offset="0.4825" style="stop-color:#050036"/>
+		<stop  offset="0.8465" style="stop-color:#020012"/>
 		<stop  offset="1" style="stop-color:#000000"/>
-	</linearGradient>
+	</radialGradient>
 	<rect x="26" y="26" style="fill:url(#SVGID_1_);" width="460" height="460"/>
 	<g>
 		<rect x="26" y="26" style="fill:#1E1E1E;" width="460" height="98.207"/>
