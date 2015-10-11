@@ -4,9 +4,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
-	<path style="fill:#132301;" d="M446,486H66c-22.091,0-40-17.909-40-40V66c0-22.091,17.909-40,40-40h380c22.091,0,40,17.909,40,40
+	<path style="fill:#192B02;" d="M446,486H66c-22.091,0-40-17.909-40-40V66c0-22.091,17.909-40,40-40h380c22.091,0,40,17.909,40,40
 		v380C486,468.091,468.091,486,446,486z"/>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256" y1="26" x2="256" y2="486">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256" y1="486" x2="256" y2="26" gradientTransform="matrix(1 0 0 -1 0 512)">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 	</linearGradient>
