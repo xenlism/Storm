@@ -12,22 +12,30 @@
 				154.7,428 154.7,472.2 460.6,472.2 460.6,428 460.6,412 460.6,122 			"/>
 		</g>
 	</g>
-	<radialGradient id="SVGID_1_" cx="254.7983" cy="246.1272" r="322.7971" gradientUnits="userSpaceOnUse">
-		<stop  offset="0" style="stop-color:#04B187"/>
-		<stop  offset="1" style="stop-color:#406EA7"/>
+	
+		<radialGradient id="SVGID_1_" cx="307.65" cy="237" r="134.725" gradientTransform="matrix(1 0 0 -1 0 512)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#006BFF"/>
+		<stop  offset="0.2852" style="stop-color:#118FFF"/>
+		<stop  offset="0.5744" style="stop-color:#1FADFF"/>
+		<stop  offset="0.8229" style="stop-color:#27BFFF"/>
+		<stop  offset="1" style="stop-color:#2AC6FF"/>
 	</radialGradient>
 	<polygon fill="url(#SVGID_1_)" points="356.3,316.1 356.3,332.1 356.3,376.3 172.9,376.3 172.9,409.7 442.4,409.7 442.4,140.3 
 		356.3,140.3 	"/>
-	<radialGradient id="SVGID_2_" cx="254.7983" cy="246.1272" r="322.7971" gradientUnits="userSpaceOnUse">
-		<stop  offset="0" style="stop-color:#04B187"/>
-		<stop  offset="1" style="stop-color:#406EA7"/>
+	
+		<radialGradient id="SVGID_2_" cx="203.35" cy="332.9" r="134.725" gradientTransform="matrix(1 0 0 -1 0 512)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#006BFF"/>
+		<stop  offset="0.2852" style="stop-color:#118FFF"/>
+		<stop  offset="0.5744" style="stop-color:#1FADFF"/>
+		<stop  offset="0.8229" style="stop-color:#27BFFF"/>
+		<stop  offset="1" style="stop-color:#2AC6FF"/>
 	</radialGradient>
 	<polygon fill="url(#SVGID_2_)" points="338.1,313.8 338.1,140.3 338.1,122 338.1,44.4 68.6,44.4 68.6,313.8 154.7,313.8 
 		172.9,313.8 	"/>
 	<g>
 		<polygon fill="#5DC4B8" points="334.1,310.6 276.9,409.7 391.3,409.7 		"/>
-		<polygon fill="#70C9BE" points="230.5,340.7 190.7,409.7 270.4,409.7 		"/>
-		<polygon fill="#29B99A" points="421.9,376.9 402.9,409.7 440.8,409.7 		"/>
+		<polygon fill="#5DC4B8" points="230.5,340.7 190.7,409.7 270.4,409.7 		"/>
+		<polygon fill="#5DC4B8" points="421.9,376.9 402.9,409.7 440.8,409.7 		"/>
 		<polygon fill="#5DC4B8" points="96.4,268.8 70.4,313.8 122.4,313.8 		"/>
 		<circle fill="#FFD111" cx="206.1" cy="177.8" r="66.3"/>
 	</g>
