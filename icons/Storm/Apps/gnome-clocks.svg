@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<circle style="fill:#2D2D2D;" cx="256" cy="256" r="230"/>
+	<path style="opacity:0.2;" d="M256,26C129,26,26,129,26,256s103,230,230,230s230-103,230-230S383,26,256,26z M256,458.5
+		c-117.7,0-214.8-88.4-228.4-202.5C41.2,141.9,138.3,53.5,256,53.5S470.8,141.9,484.4,256C470.8,370.1,373.7,458.5,256,458.5z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256" y1="486" x2="256" y2="26">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.5" style="stop-color:#B5B5B5"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M256,36c29.7,0,58.5,5.8,85.6,17.3c26.2,11.1,49.7,26.9,69.9,47.2s36.1,43.7,47.2,69.9
+		c11.5,27.1,17.3,55.9,17.3,85.6s-5.8,58.5-17.3,85.6c-11.1,26.2-26.9,49.7-47.2,69.9s-43.7,36.1-69.9,47.2
+		C314.5,470.2,285.7,476,256,476s-58.5-5.8-85.6-17.3c-26.2-11.1-49.7-26.9-69.9-47.2s-36.1-43.7-47.2-69.9
+		C41.8,314.5,36,285.7,36,256s5.8-58.5,17.3-85.6c11.1-26.2,26.9-49.7,47.2-69.9s43.7-36.1,69.9-47.2C197.5,41.8,226.3,36,256,36
+		 M256,26C129,26,26,129,26,256s103,230,230,230s230-103,230-230S383,26,256,26L256,26z"/>
+</g>
+<path style="opacity:0.4;" d="M378,264l-107-6.8c-1.6-3.5-4.4-6.4-8-8.1l-7-137.3l-7,137.3c-5.6,2.6-9.5,8.3-9.5,14.9
+	c0,2,0.4,4,1.1,5.8L118,358.3L244.7,276c3,2.8,6.9,4.5,11.3,4.5c6.7,0,12.4-4,15-9.7L378,264z"/>
+<g>
+	<polygon style="fill:#FF0316;" points="248.2,255.8 256,103.8 263.8,255.8 	"/>
+	<polygon style="fill:#D1D1D1;" points="258.3,259.2 118,350.3 253.7,252.4 	"/>
+	<polygon style="fill:#FFFFFF;" points="256,263.8 378,256 256,248.2 	"/>
+	<circle style="fill:#FF0316;" cx="256" cy="256" r="16.5"/>
+</g>
+</svg>
