@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<path d="M446,486H66c-22.1,0-40-17.9-40-40V66c0-22.1,17.9-40,40-40h380c22.1,0,40,17.9,40,40v380C486,468.1,468.1,486,446,486z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256" y1="26" x2="256" y2="486">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M446,36c16.5,0,30,13.5,30,30v380c0,16.5-13.5,30-30,30H66c-16.5,0-30-13.5-30-30V66
+		c0-16.5,13.5-30,30-30H446 M446,26H66c-22.1,0-40,17.9-40,40v380c0,22.1,17.9,40,40,40h380c22.1,0,40-17.9,40-40V66
+		C486,43.9,468.1,26,446,26L446,26z"/>
+</g>
+<g>
+	<g>
+		<polygon style="fill:#EDEDED;" points="179.3,306.6 162.9,290.3 141.4,370.6 221.7,349.1 205.4,332.7 254.3,257.7 		"/>
+		<polygon style="fill:#EDEDED;" points="221.7,162.9 141.4,141.4 162.9,221.7 179.3,205.4 254.3,254.3 205.4,179.3 		"/>
+		<polygon style="fill:#EDEDED;" points="332.7,306.6 257.7,257.7 306.6,332.7 290.3,349.1 370.6,370.6 349.1,290.3 		"/>
+		<polygon style="fill:#EDEDED;" points="332.7,205.4 349.1,221.7 370.6,141.4 290.3,162.9 306.6,179.3 257.7,254.3 		"/>
+	</g>
+	<g>
+		<polygon style="fill:#FFFFFF;" points="179.3,205.4 254.3,254.3 141.4,141.4 162.9,221.7 		"/>
+		<polygon style="fill:#EDEDED;" points="162.9,290.3 141.4,370.6 254.3,257.7 179.3,306.6 		"/>
+		<polygon style="fill:#EDEDED;" points="290.3,349.1 370.6,370.6 257.7,257.7 306.6,332.7 		"/>
+		<polygon style="fill:#FFFFFF;" points="221.7,349.1 205.4,332.7 254.3,257.7 141.4,370.6 		"/>
+		<polygon style="fill:#EDEDED;" points="205.4,179.3 221.7,162.9 141.4,141.4 254.3,254.3 		"/>
+		<polygon style="fill:#FFFFFF;" points="290.3,162.9 306.6,179.3 257.7,254.3 370.6,141.4 		"/>
+		<polygon style="fill:#FFFFFF;" points="349.1,290.3 332.7,306.6 257.7,257.7 370.6,370.6 		"/>
+		<polygon style="fill:#EDEDED;" points="349.1,221.7 370.6,141.4 257.7,254.3 332.7,205.4 		"/>
+	</g>
+</g>
+</svg>
