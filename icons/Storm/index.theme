@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Xenlism Storm
-Comment=Minimalism An Realism Mixed Icon style.Free style icons theme.
-Inherits=Ubuntu-mono-dark,Mint-X,Adwaita,elementary,hicolor
+Comment=Minimalism An Realism Mixed Icon.Free style icons theme.
+Inherits=Xenlism-Wildfire,Ubuntu-mono-dark,Mint-X,Adwaita,elementary,hicolor
 
 # Directory list
 Directories=Apps,Status,Categories,Emblems,Devices,Mimes,Places
