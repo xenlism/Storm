@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<rect x="26" y="26" style="fill:#51D88B;" width="96" height="96"/>
+		<rect x="26" y="208" style="fill:#2D98E0;" width="96" height="96"/>
+		<rect x="26" y="390" style="fill:#9C56B8;" width="96" height="96"/>
+	</g>
+	<g>
+		<rect x="208" y="26" style="fill:#F1C50E;" width="96" height="96"/>
+		<rect x="208" y="208" style="fill:#51D88B;" width="96" height="96"/>
+		<rect x="208" y="390" style="fill:#2D98E0;" width="96" height="96"/>
+	</g>
+	<g>
+		<rect x="390" y="26" style="fill:#E84C3D;" width="96" height="96"/>
+		<rect x="390" y="208" style="fill:#F1C50E;" width="96" height="96"/>
+		<rect x="390" y="390" style="fill:#51D88B;" width="96" height="96"/>
+	</g>
+</g>
+</svg>
