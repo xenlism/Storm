@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 640" style="enable-background:new 0 0 640 640;" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<path style="opacity:0.3;fill:#353535;enable-background:new    ;" d="M482.982,549c0,0-189.676-50.02-364.291-45.301
+				l42.554-375.653l361.67,46.161C522.915,174.207,487.554,463.265,482.982,549z"/>
+			
+				<rect x="136.703" y="149.663" transform="matrix(-0.992 -0.1266 0.1266 -0.992 593.4339 701.661)" style="fill:#FF00CF;" width="364.621" height="364.621"/>
+		</g>
+		<g>
+			<path style="opacity:0.3;fill:#353535;enable-background:new    ;" d="M493.615,525.723c0,0-177.382-22.514-349.753-0.524
+				l-7.164-375.362h364.604C501.302,149.837,491.487,439.892,493.615,525.723z"/>
+			<rect x="136.698" y="149.837" style="fill:#FF0074;" width="364.604" height="364.604"/>
+		</g>
+	</g>
+	<g id="Layer_2_1_">
+		<circle style="opacity:0.4;fill:#383838;enable-background:new    ;" cx="319" cy="201.587" r="71.542"/>
+		<circle style="fill:#D1D1D1;" cx="319" cy="170.079" r="71.542"/>
+		<g>
+			<circle style="fill:#E3E4E5;" cx="319" cy="156.072" r="53.959"/>
+		</g>
+		<g>
+			<circle style="fill:#E3E4E5;" cx="319" cy="142.959" r="53.959"/>
+			<path style="fill:#C1C1C1;" d="M319,98.537c24.495,0,44.423,19.928,44.423,44.423S343.495,187.382,319,187.382
+				s-44.423-19.928-44.423-44.423S294.505,98.537,319,98.537 M319,89c-29.802,0-53.959,24.159-53.959,53.959
+				s24.158,53.959,53.959,53.959c29.802,0,53.959-24.159,53.959-53.959S348.802,89,319,89L319,89z"/>
+		</g>
+	</g>
+</g>
+</svg>
