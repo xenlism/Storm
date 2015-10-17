@@ -17,28 +17,28 @@ Type=Scalable
 [Mimes]
 Context=MimeTypes
 Size=64
-MinSize=16
+MinSize=24
 MaxSize=512
 Type=Scalable
 
 [Places]
 Context=Places
 Size=64
-MinSize=16
+MinSize=24
 MaxSize=512
 Type=Scalable
 
 [Status]
 Context=Status
 Size=64
-MinSize=16
+MinSize=24
 MaxSize=512
 Type=Scalable
 
 [Categories]
 Context=Categories
 Size=64
-MinSize=16
+MinSize=24
 MaxSize=512
 Type=Scalable
 
@@ -47,12 +47,12 @@ Type=Scalable
 Size=64
 Context=Devices
 Type=Scalable
-MinSize=16
+MinSize=24
 MaxSize=512
 
 [Emblems]
 Size=64
 Context=Emblems
 Type=Scalable
-MinSize=16
+MinSize=24
 MaxSize=512
