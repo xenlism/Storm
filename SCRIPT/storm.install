@@ -3,14 +3,14 @@ if [ -f /tmp/Storm/ ]
 then
 	rm -rf /tmp/Storm/
 fi
-if [ "$(ls -a ~/.icons/ | grep -c Strom)" != "0" ]
+if [ "$(ls -a ~/.icons/ | grep -c Storm)" != "0" ]
 then
 	rm -rf ~/.icons/*Storm/
 fi
 
 git clone https://github.com/xenlism/storm.git /tmp/Storm
 
-if [ "$(ls -a /tmp/Storm/icons/ | grep -c Strom)" != "0" ]
+if [ "$(ls -a /tmp/Storm/icons/ | grep -c Storm)" != "0" ]
 then
 	cp -r /tmp/Storm/icons/*Storm/ ~/.icons/
 fi
