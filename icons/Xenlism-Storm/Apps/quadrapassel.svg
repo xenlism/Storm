@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 512 512;"
+   viewBox="0 0 512 512"
+   y="0px"
+   x="0px"
+   id="Layer_3"
+   version="1.1"><metadata
+   id="metadata45"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs43" />
+<g
+   id="g38">
+	<g
+   id="g18">
+		<g
+   id="g4">
+			<rect
+   id="rect2"
+   height="101.709"
+   width="101.709"
+   style="fill:#501616"
+   y="384.291"
+   x="50.829" />
+		</g>
+		<g
+   id="g8">
+			<rect
+   id="rect6"
+   height="101.709"
+   width="101.709"
+   style="fill:#e9afaf"
+   y="384.291"
+   x="152.537" />
+		</g>
+		<g
+   id="g12">
+			<rect
+   id="rect10"
+   height="101.709"
+   width="101.709"
+   style="fill:#d35f5f"
+   y="384.291"
+   x="254.246" />
+		</g>
+		<g
+   id="g16">
+			<rect
+   id="rect14"
+   height="101.709"
+   width="101.709"
+   style="fill:#a02c2c"
+   y="282.583"
+   x="152.537" />
+		</g>
+	</g>
+	<g
+   id="g36">
+		<g
+   id="g22">
+			<rect
+   id="rect20"
+   height="101.709"
+   width="101.709"
+   style="fill:#d4aa00"
+   y="229.376"
+   x="359.463" />
+		</g>
+		<g
+   id="g26">
+			<rect
+   id="rect24"
+   height="101.709"
+   width="101.709"
+   style="fill:#ffeeaa"
+   y="127.709"
+   x="257.713" />
+		</g>
+		<g
+   id="g30">
+			<rect
+   id="rect28"
+   height="101.709"
+   width="101.709"
+   style="fill:#806600"
+   y="127.709"
+   x="359.422" />
+		</g>
+		<g
+   id="g34">
+			<rect
+   id="rect32"
+   height="101.709"
+   width="101.709"
+   style="fill:#ffdd55"
+   y="26"
+   x="257.713" />
+		</g>
+	</g>
+</g>
+</svg>
