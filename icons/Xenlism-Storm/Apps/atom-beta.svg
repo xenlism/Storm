@@ -1,58 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.1" id="Layer_2" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 612 792"
-	 enable-background="new 0 0 612 792" xml:space="preserve">
-<switch>
-	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
-		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   enable-background="new 0 0 612 792"
+   xml:space="preserve"
+   sodipodi:docname="atom-beta.svg"
+   width="512"
+   height="512"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata36"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs34" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1003"
+   id="namedview32"
+   showgrid="false"
+   inkscape:zoom="0.2979798"
+   inkscape:cx="306"
+   inkscape:cy="396"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+<switch
+   id="switch29"
+   transform="matrix(0.8366679,0,0,0.8366679,-0.0203774,-75.320488)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+		<i:pgfRef
+   xlink:href="#adobe_illustrator_pgf">
 		</i:pgfRef>
 	</foreignObject>
-	<g i:extraneous="self">
-		<g>
+	<g
+   i:extraneous="self"
+   id="g27">
+		<g
+   id="g15">
 			
-				<radialGradient id="SVGID_1_" cx="256" cy="536" r="230" gradientTransform="matrix(1.1953 0 0 1.1953 0 -244.6875)" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#ECF2BF"/>
-				<stop  offset="0.2166" style="stop-color:#EBECBB"/>
-				<stop  offset="0.4962" style="stop-color:#E9DCAF"/>
-				<stop  offset="0.8091" style="stop-color:#E6C29C"/>
-				<stop  offset="1" style="stop-color:#E3AE8E"/>
+				<radialGradient
+   id="SVGID_1_"
+   cx="256"
+   cy="536"
+   r="230"
+   gradientTransform="matrix(1.1953,0,0,1.1953,0,-244.6875)"
+   gradientUnits="userSpaceOnUse">
+				<stop
+   offset="0"
+   style="stop-color:#ECF2BF"
+   id="stop2" />
+				<stop
+   offset="0.2166"
+   style="stop-color:#EBECBB"
+   id="stop4" />
+				<stop
+   offset="0.4962"
+   style="stop-color:#E9DCAF"
+   id="stop6" />
+				<stop
+   offset="0.8091"
+   style="stop-color:#E6C29C"
+   id="stop8" />
+				<stop
+   offset="1"
+   style="stop-color:#E3AE8E"
+   id="stop10" />
 			</radialGradient>
-			<circle fill="url(#SVGID_1_)" cx="306" cy="396" r="274.9"/>
+			<circle
+   cx="306"
+   cy="396"
+   r="274.89999"
+   id="circle13"
+   style="fill:url(#SVGID_1_)" />
 		</g>
-		<g>
-			<path fill="#66595C" d="M242.4,521.1c-5.6,0-10.6-1.4-14.9-4.2c-29.4-19.1-7.1-92,31.5-151.5c36-55.4,79.9-93.4,109.4-94.5
-				c6.2-0.2,11.6,1.1,16.2,4.1c12.8,8.3,16.7,27.1,11.3,54.4c-0.6,3-3.5,4.9-6.5,4.3c-3-0.6-4.9-3.5-4.3-6.5
-				c4.3-21.9,1.9-37.6-6.5-43.1c-2.6-1.7-5.9-2.5-9.8-2.4c-25.2,1-67.5,38.6-100.6,89.5c-19.8,30.5-34.1,62-40.2,88.5
-				c-5.6,24.4-3.6,41.8,5.5,47.7c8.6,5.6,24.2,1.2,42.7-12c2.5-1.8,5.9-1.2,7.7,1.3c1.8,2.5,1.2,5.9-1.3,7.7
-				C267.2,515.6,253.6,521.1,242.4,521.1z"/>
-			<path fill="#66595C" d="M411.9,439c-2.2,0-4.3-1.3-5.1-3.5c-1.1-2.8,0.3-6,3.1-7.1c18-7,28.6-16.3,29.1-25.4
-				c0.6-10.9-12.3-22.7-35.3-32.5c-25.1-10.7-58.9-17.6-95.3-19.5c-7.3-0.4-14.3-0.6-20.8-0.5C217.1,350.7,174,370.2,173,389
-				c-0.5,9.3,8.8,19.3,26.2,28.3c2.7,1.4,3.8,4.7,2.4,7.4c-1.4,2.7-4.7,3.8-7.4,2.4c-21.8-11.2-32.9-24.6-32.1-38.6
-				c1.5-28.6,53.1-48.8,125.5-49c6.7,0,13.9,0.2,21.4,0.6c37.6,2,72.8,9.2,99,20.4c27.9,11.9,42.8,27.2,42,43.2
-				c-0.7,14.1-13.2,26.2-36.1,35.1C413.2,438.9,412.5,439,411.9,439z"/>
-			<path fill="#66595C" d="M359.7,527.2c-12.7,0-28.2-8-44.8-23.5c-20.9-19.4-41.8-48.6-58.9-82.2c-17.1-33.6-28.4-67.6-31.8-96
-				c-3.7-30.2,2.2-50.8,16.4-58c2.9-1.5,6.2-2.4,9.7-2.6c11.4-0.8,25.3,5.3,40.4,17.8c2.3,1.9,2.7,5.4,0.7,7.7
-				c-1.9,2.3-5.4,2.7-7.7,0.7c-12.6-10.5-24.2-15.9-32.5-15.3c-2,0.2-3.8,0.6-5.5,1.5c-9.7,4.9-13.5,22-10.5,46.9
-				c3.3,27.1,14.2,59.9,30.7,92.3c16.5,32.4,36.6,60.5,56.6,79.1c18.3,17.1,34.4,24,44.1,19.1c9.3-4.7,13.2-20.7,10.8-44
-				c-2.6-25.3-12.3-56.3-27.2-87.5c-1.3-2.7-0.2-6,2.6-7.3c2.7-1.3,6-0.2,7.3,2.6c15.5,32.3,25.6,64.6,28.3,91.1
-				c2.9,28.4-3.1,47.9-16.8,54.9C367.9,526.3,363.9,527.2,359.7,527.2z"/>
-			<path fill="#66595C" d="M323.4,398c0,9.1-7.4,16.5-16.5,16.5s-16.5-7.4-16.5-16.5l0,0c0-9.1,7.4-16.5,16.5-16.5
-				C316,381.5,323.4,388.8,323.4,398z"/>
+		<g
+   id="g25">
+			<path
+   d="m 242.4,521.1 c -5.6,0 -10.6,-1.4 -14.9,-4.2 -29.4,-19.1 -7.1,-92 31.5,-151.5 36,-55.4 79.9,-93.4 109.4,-94.5 6.2,-0.2 11.6,1.1 16.2,4.1 12.8,8.3 16.7,27.1 11.3,54.4 -0.6,3 -3.5,4.9 -6.5,4.3 -3,-0.6 -4.9,-3.5 -4.3,-6.5 4.3,-21.9 1.9,-37.6 -6.5,-43.1 -2.6,-1.7 -5.9,-2.5 -9.8,-2.4 -25.2,1 -67.5,38.6 -100.6,89.5 -19.8,30.5 -34.1,62 -40.2,88.5 -5.6,24.4 -3.6,41.8 5.5,47.7 8.6,5.6 24.2,1.2 42.7,-12 2.5,-1.8 5.9,-1.2 7.7,1.3 1.8,2.5 1.2,5.9 -1.3,7.7 -15.4,11.2 -29,16.7 -40.2,16.7 z"
+   id="path17"
+   inkscape:connector-curvature="0"
+   style="fill:#66595c" />
+			<path
+   d="m 411.9,439 c -2.2,0 -4.3,-1.3 -5.1,-3.5 -1.1,-2.8 0.3,-6 3.1,-7.1 18,-7 28.6,-16.3 29.1,-25.4 0.6,-10.9 -12.3,-22.7 -35.3,-32.5 -25.1,-10.7 -58.9,-17.6 -95.3,-19.5 -7.3,-0.4 -14.3,-0.6 -20.8,-0.5 -70.5,0.2 -113.6,19.7 -114.6,38.5 -0.5,9.3 8.8,19.3 26.2,28.3 2.7,1.4 3.8,4.7 2.4,7.4 -1.4,2.7 -4.7,3.8 -7.4,2.4 -21.8,-11.2 -32.9,-24.6 -32.1,-38.6 1.5,-28.6 53.1,-48.8 125.5,-49 6.7,0 13.9,0.2 21.4,0.6 37.6,2 72.8,9.2 99,20.4 27.9,11.9 42.8,27.2 42,43.2 -0.7,14.1 -13.2,26.2 -36.1,35.1 -0.7,0.1 -1.4,0.2 -2,0.2 z"
+   id="path19"
+   inkscape:connector-curvature="0"
+   style="fill:#66595c" />
+			<path
+   d="m 359.7,527.2 c -12.7,0 -28.2,-8 -44.8,-23.5 -20.9,-19.4 -41.8,-48.6 -58.9,-82.2 -17.1,-33.6 -28.4,-67.6 -31.8,-96 -3.7,-30.2 2.2,-50.8 16.4,-58 2.9,-1.5 6.2,-2.4 9.7,-2.6 11.4,-0.8 25.3,5.3 40.4,17.8 2.3,1.9 2.7,5.4 0.7,7.7 -1.9,2.3 -5.4,2.7 -7.7,0.7 -12.6,-10.5 -24.2,-15.9 -32.5,-15.3 -2,0.2 -3.8,0.6 -5.5,1.5 -9.7,4.9 -13.5,22 -10.5,46.9 3.3,27.1 14.2,59.9 30.7,92.3 16.5,32.4 36.6,60.5 56.6,79.1 18.3,17.1 34.4,24 44.1,19.1 9.3,-4.7 13.2,-20.7 10.8,-44 -2.6,-25.3 -12.3,-56.3 -27.2,-87.5 -1.3,-2.7 -0.2,-6 2.6,-7.3 2.7,-1.3 6,-0.2 7.3,2.6 15.5,32.3 25.6,64.6 28.3,91.1 2.9,28.4 -3.1,47.9 -16.8,54.9 -3.7,1.8 -7.7,2.7 -11.9,2.7 z"
+   id="path21"
+   inkscape:connector-curvature="0"
+   style="fill:#66595c" />
+			<path
+   d="m 323.4,398 c 0,9.1 -7.4,16.5 -16.5,16.5 -9.1,0 -16.5,-7.4 -16.5,-16.5 v 0 c 0,-9.1 7.4,-16.5 16.5,-16.5 9.1,0 16.5,7.3 16.5,16.5 z"
+   id="path23"
+   inkscape:connector-curvature="0"
+   style="fill:#66595c" />
 		</g>
 	</g>
 </switch>
-<i:pgf  id="adobe_illustrator_pgf">
+<i:pgf
+   id="adobe_illustrator_pgf">
 	<![CDATA[
 	eJzVved64kzzJ/yeAOcAtrHBAZSDM9E55zQ2NozNGAMGfD/PvR/22N9ftQKSkIQIs//d0WUGpFZX
 d3Xl7upOJk4vVnLV1mttRcxw8VgyWejUKr1WZzXO7sb3Go2fbq9Dt1Ln6TivZjgUyu1pz2bB61qn
