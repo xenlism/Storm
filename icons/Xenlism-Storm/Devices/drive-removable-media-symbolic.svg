@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   enable-background="new 0 0 512 512"
+   viewBox="0 0 512 512"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" />
+
+<g
+   id="layer1"><g
+     id="g4"
+     style="">
+	
+</g><path
+     style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.33966205;stroke-opacity:0.56818183"
+     d="M 91.154297 26 C 55.058564 26 26 55.058559 26 91.154297 L 26 420.8457 C 26 456.94145 55.058564 486 91.154297 486 L 420.8457 486 C 456.94144 486 486 456.94145 486 420.8457 L 486 91.154297 C 486 55.058559 456.94144 26 420.8457 26 L 91.154297 26 z M 256.52734 108.3418 C 258.35166 108.42751 260.00692 109.43583 260.91992 111.01758 L 299.2793 177.46094 L 337.64062 243.90234 C 339.70359 247.47659 337.12493 251.94431 332.99805 251.94531 L 256.27539 251.94531 L 179.55469 251.94531 C 175.42694 251.94548 172.84676 247.47735 174.91016 243.90234 L 213.27148 177.46094 L 251.63281 111.01758 C 252.63551 109.28048 254.5238 108.24817 256.52734 108.3418 z M 181.5 276 L 330.5 276 C 334.932 276 338.5 279.568 338.5 284 L 338.5 313 C 338.5 317.432 334.932 321 330.5 321 L 181.5 321 C 177.068 321 173.5 317.432 173.5 313 L 173.5 284 C 173.5 279.568 177.068 276 181.5 276 z M 89.492188 404.60938 C 90.338026 404.61537 91.183219 404.65748 92.025391 404.73633 L 420.00391 404.73633 C 420.83635 404.65833 421.67175 404.61593 422.50781 404.60938 C 438.68393 404.60886 451.79738 417.72232 451.79688 433.89844 C 451.79631 450.07379 438.68316 463.18607 422.50781 463.18555 C 421.66331 463.18055 420.81942 463.13865 419.97852 463.06055 L 91.996094 463.06055 C 91.163625 463.13795 90.328225 463.17964 89.492188 463.18555 C 73.316835 463.18606 60.203692 450.07379 60.203125 433.89844 C 60.202615 417.72233 73.316073 404.60886 89.492188 404.60938 z "
+     id="rect1368" /><g
+     transform="translate(0,177.89831)"
+     id="g848"><g
+       id="g842"
+       transform="translate(0.54237747)" /></g></g><g
+   id="layer2" /><g
+   id="g827"
+   transform="translate(-3.5,28)" /><g
+   transform="translate(180,-242)"
+   id="layer1-3"><g
+     id="g4-6" /><g
+     id="g848-5"
+     transform="translate(0,177.89831)"><g
+       transform="translate(0.54237747)"
+       id="g842-3" /></g></g><g
+   transform="translate(180,-242)"
+   id="layer2-5" /><g
+   id="layer1-6"><g
+     id="g4-2" /><g
+     id="g848-1"
+     transform="translate(0,177.89831)"><g
+       transform="translate(0.54237747)"
+       id="g842-2" /></g></g><g
+   id="layer2-7" /><circle
+   style="opacity:0.92000002;fill:#bebebe;fill-opacity:1"
+   id="path4326"
+   cx="89.359131"
+   cy="434.14633"
+   r="21.093355" /></svg>
