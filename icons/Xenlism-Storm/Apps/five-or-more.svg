@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1.96336,0,0,1.96336,-246.612,-251.535)">
+        <g id="g4498" transform="matrix(1,0,0,1,23.8644,-22.3489)">
+            <g opacity="0.4">
+                <g id="g4414" transform="matrix(0.833333,0,0,0.833333,36.8814,41.5819)">
+                    <circle id="circle4406" cx="121.3" cy="401" r="26.7"/>
+                    <circle id="circle4408_1_" cx="272" cy="401" r="26.7"/>
+                    <circle id="circle4410_1_" cx="196.7" cy="401" r="26.7"/>
+                    <circle id="circle4412_1_" cx="347.3" cy="401" r="26.7"/>
+                </g>
+                <g id="g4444_1_" transform="matrix(0.833333,0,0,0.833333,36.8814,101.846)">
+                    <circle id="circle4446_1_" cx="121.3" cy="254.7" r="26.7"/>
+                    <circle id="circle4448_1_" cx="272" cy="254.7" r="26.7"/>
+                    <circle id="circle4450_1_" cx="196.7" cy="254.7" r="26.7"/>
+                    <circle id="circle4452_1_" cx="347.3" cy="254.7" r="26.7"/>
+                </g>
+                <g id="g4478_1_" transform="matrix(0.833333,0,0,0.833333,36.8814,162.109)">
+                    <circle id="circle4482_1_" cx="272" cy="108.5" r="26.7"/>
+                    <circle id="circle4484_1_" cx="196.7" cy="108.5" r="26.7"/>
+                    <circle id="circle4486_1_" cx="347.3" cy="108.5" r="26.7"/>
+                </g>
+                <g id="g4488_1_" transform="matrix(0.833333,0,0,0.833333,36.8814,222.373)">
+                    <circle id="circle4492_1_" cx="272" cy="-37.7" r="26.7"/>
+                    <circle id="circle4496_1_" cx="347.3" cy="-37.7" r="26.7"/>
+                </g>
+            </g>
+        </g>
+        <g id="g4498_1_" transform="matrix(1,0,0,1,23.8644,-22.3489)">
+            <g id="g4414_1_" transform="matrix(0.833333,0,0,0.833333,36.8814,41.5819)">
+                <circle id="circle4406_1_" cx="121.3" cy="395" r="26.7" style="fill:rgb(255,230,0);"/>
+                <circle id="circle4408_2_" cx="272" cy="395" r="26.7" style="fill:white;"/>
+                <circle id="circle4410_2_" cx="196.7" cy="395" r="26.7" style="fill:rgb(255,230,0);"/>
+                <circle id="circle4412_2_" cx="347.3" cy="395" r="26.7" style="fill:rgb(217,0,255);"/>
+            </g>
+            <g id="g4444_2_" transform="matrix(0.833333,0,0,0.833333,36.8814,101.846)">
+                <circle id="circle4446_2_" cx="121.3" cy="248.7" r="26.7" style="fill:white;"/>
+                <circle id="circle4448_2_" cx="272" cy="248.7" r="26.7" style="fill:rgb(217,0,255);"/>
+                <circle id="circle4450_2_" cx="196.7" cy="248.7" r="26.7" style="fill:rgb(255,230,0);"/>
+                <circle id="circle4452_2_" cx="347.3" cy="248.7" r="26.7" style="fill:white;"/>
+            </g>
+            <g id="g4478_2_" transform="matrix(0.833333,0,0,0.833333,36.8814,162.109)">
+                <circle id="circle4482_2_" cx="272" cy="102.5" r="26.7" style="fill:rgb(255,230,0);"/>
+                <circle id="circle4484_2_" cx="196.7" cy="102.5" r="26.7" style="fill:rgb(217,0,255);"/>
+                <circle id="circle4486_2_" cx="347.3" cy="102.5" r="26.7" style="fill:white;"/>
+            </g>
+            <g id="g4488_2_" transform="matrix(0.833333,0,0,0.833333,36.8814,222.373)">
+                <circle id="circle4492_2_" cx="272" cy="-43.7" r="26.7" style="fill:white;"/>
+                <circle id="circle4496_2_" cx="347.3" cy="-43.7" r="26.7" style="fill:rgb(255,230,0);"/>
+            </g>
+        </g>
+    </g>
+</svg>
