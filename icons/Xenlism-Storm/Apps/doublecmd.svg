@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g id="g238" transform="translate(352.127,309.2471)">
+	<linearGradient id="path236_1_" gradientUnits="userSpaceOnUse" x1="-326.1273" y1="-53.2472" x2="-135.1375" y2="-53.2472">
+		<stop  offset="0" style="stop-color:#E81C24"/>
+		<stop  offset="1" style="stop-color:#7C1315"/>
+	</linearGradient>
+	<path id="path236" style="fill:url(#path236_1_);" d="M-230.6-127.8c-41.1,0-74.5,33.4-74.5,74.5s33.4,74.5,74.5,74.5
+		s74.5-33.4,74.5-74.5S-189.6-127.8-230.6-127.8 M-230.6,42.2c-52.7,0-95.5-42.8-95.5-95.5c0-52.7,42.8-95.5,95.5-95.5
+		s95.5,42.8,95.5,95.5C-135.1-0.6-178,42.2-230.6,42.2"/>
+	<linearGradient id="path240_1_" gradientUnits="userSpaceOnUse" x1="-57.1157" y1="-53.2472" x2="133.8727" y2="-53.2472">
+		<stop  offset="0" style="stop-color:#E81C24"/>
+		<stop  offset="1" style="stop-color:#7C1315"/>
+	</linearGradient>
+	<path id="path240" style="fill:url(#path240_1_);" d="M38.4-127.8c-41.1,0-74.5,33.4-74.5,74.5s33.4,74.5,74.5,74.5
+		s74.5-33.4,74.5-74.5S79.5-127.8,38.4-127.8 M38.4,42.2c-52.7,0-95.5-42.8-95.5-95.5c0-52.7,42.8-95.5,95.5-95.5
+		c52.7,0,95.5,42.8,95.5,95.5C133.9-0.6,91,42.2,38.4,42.2"/>
+</g>
+</svg>
