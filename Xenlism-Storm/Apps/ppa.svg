@@ -1,104 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xml:space="preserve"
-   style="enable-background:new 0 0 512 512;"
-   viewBox="0 0 512 512"
-   y="0px"
-   x="0px"
-   id="Layer_1"
-   version="1.1"><metadata
-     id="metadata58"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs56" /><g
-     id="g3"><path
-       id="path5"
-       d="M446,486H66c-22.1,0-40-17.9-40-40V66c0-22.1,17.9-40,40-40h380c22.1,0,40,17.9,40,40v380   C486,468.1,468.1,486,446,486z"
-       style="fill:#E8E8E8;" /><path
-       id="path7"
-       d="M446,486H66c-22.1,0-40-17.9-40-40V66c0-22.1,17.9-40,40-40h380c22.1,0,40,17.9,40,40v380   C486,468.1,468.1,486,446,486z"
-       style="fill:#60493D;" /><g
-       id="g9"><path
-         id="path11"
-         d="M26.1,94.6c0,0.8-0.1,1.6-0.1,2.4v349c0,0.7,0,1.4,0.1,2.1l165.8-176.8L26.1,94.6z"
-         style="fill:#825E46;" /><path
-         id="path13"
-         d="M320.1,271.3l165.8,176.8c0-0.7,0.1-1.4,0.1-2.1V97c0-0.8,0-1.6-0.1-2.4L320.1,271.3z"
-         style="fill:#825E46;" /><linearGradient
-         y2="203"
-         x2="256"
-         y1="486"
-         x1="256"
-         gradientUnits="userSpaceOnUse"
-         id="SVGID_1_"><stop
-           id="stop16"
-           style="stop-color:#563D2A"
-           offset="0" /><stop
-           id="stop18"
-           style="stop-color:#6D4E39"
-           offset="0.362" /><stop
-           id="stop20"
-           style="stop-color:#7D5A43"
-           offset="0.7165" /><stop
-           id="stop22"
-           style="stop-color:#825E46"
-           offset="1" /></linearGradient><path
-         id="path24"
-         d="M320.1,271.3L256,203l-64.1,68.3L26.1,448.1c0,0,0,0,0,0.1C27.2,469.3,44.6,486,66,486h380    c21.4,0,38.8-16.7,39.9-37.8c0,0,0,0,0-0.1L320.1,271.3z"
-         style="fill:url(#SVGID_1_);" /><linearGradient
-         y2="57"
-         x2="256"
-         y1="339.7"
-         x1="256"
-         gradientUnits="userSpaceOnUse"
-         id="SVGID_2_"><stop
-           id="stop27"
-           style="stop-color:#483221"
-           offset="0" /><stop
-           id="stop29"
-           style="stop-color:#563D2A"
-           offset="0.3122" /><stop
-           id="stop31"
-           style="stop-color:#7B5942"
-           offset="0.9016" /><stop
-           id="stop33"
-           style="stop-color:#825E46"
-           offset="1" /></linearGradient><path
-         id="path35"
-         d="M485.9,94.5C484.6,73.6,467.3,57,446,57H66c-21.3,0-38.6,16.6-39.9,37.5v0.1l165.8,176.8    l64.1,68.3l64.1-68.3L485.9,94.5C485.9,94.6,485.9,94.5,485.9,94.5z"
-         style="fill:url(#SVGID_2_);" /></g></g><g
-     id="g37"><path
-       id="path39"
-       d="M416.901,281.607L266.607,431.901c-5.858,5.858-15.355,5.858-21.213,0L95.099,281.607   c-5.858-5.858-5.858-15.355,0-21.213l150.295-150.295c5.858-5.858,15.355-5.858,21.213,0l150.295,150.295   C422.759,266.251,422.759,275.749,416.901,281.607z"
-       style="fill:#CCA68D;" /></g><g
-     id="g41"><polygon
-       id="polygon43"
-       points="   179.811,226.946 256,182.958 332.189,226.946 332.189,314.921 256,358.909 179.811,314.921  "
-       style="fill:#F7F7F7;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" /><g
-       id="g45"><path
-         d="M225.512,288.535v-35.204L256,235.729l30.488,17.602v35.204L256,306.138    L225.512,288.535z"
-         style="fill:#F8C300;"
-         id="path_6_" /><path
-         d="M321.936,238.733l-26.403,15.244l-0.402,33.603    l26.561,15.835L321.936,238.733z"
-         style="fill:#D18C3B;"
-         id="path_5_" /><path
-         d="M190.064,303.134l26.403-15.244l0.402-33.603    l-26.561-15.835L190.064,303.134z"
-         style="fill:#3941BF;"
-         id="path_4_" /><path
-         d="M250.919,344.136v-30.488l-28.9-17.149    l-26.994,15.085L250.919,344.136z"
-         style="fill:#BB3A84;"
-         id="path_3_" /><path
-         d="M316.854,311.935l-26.403-15.244l-29.302,16.453    l-0.433,30.92L316.854,311.935z"
-         style="fill:#A02C35;"
-         id="path_2_" /><path
-         d="M195.146,229.932l26.403,15.244l29.302-16.453    l0.433-30.92L195.146,229.932z"
-         style="fill:#3895BD;"
-         id="path_1_" /><path
-         d="M261.081,197.731v30.488l28.9,17.149l26.994-15.085    L261.081,197.731z"
-         style="fill:#8FB635;"
-         id="path" /></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#825E46;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:#CCA68D;}
+	.st5{fill:#F7F7F7;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#F8C300;}
+	.st7{fill:#D18C3B;}
+	.st8{fill:#3941BF;}
+	.st9{fill:#BB3A84;}
+	.st10{fill:#A02C35;}
+	.st11{fill:#3895BD;}
+	.st12{fill:#8FB635;}
+</style>
+<g>
+	<path class="st0" d="M411,486H101c-41.2,0-75-33.8-75-75V101c0-41.2,33.8-75,75-75h310c41.2,0,75,33.8,75,75v310
+		C486,452.2,452.2,486,411,486z"/>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256" y1="-857" x2="256" y2="-641.3" gradientTransform="matrix(1 0 0 -1 0 -414)">
+			<stop  offset="0" style="stop-color:#825E46"/>
+			<stop  offset="0.3286" style="stop-color:#73523C"/>
+			<stop  offset="0.9622" style="stop-color:#4B3423"/>
+			<stop  offset="1" style="stop-color:#483221"/>
+		</linearGradient>
+		<polygon class="st1" points="68.9,443 256,227.3 443.1,443 		"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="220.7" y1="-670" x2="447.6" y2="-670" gradientTransform="matrix(1 0 0 -1 0 -414)">
+			<stop  offset="0" style="stop-color:#483221"/>
+			<stop  offset="0.3122" style="stop-color:#563D2A"/>
+			<stop  offset="0.9016" style="stop-color:#7B5942"/>
+			<stop  offset="1" style="stop-color:#825E46"/>
+		</linearGradient>
+		<polygon class="st2" points="447.6,445.4 220.7,256 447.6,66.6 		"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="64.4" y1="-670" x2="291.3" y2="-670" gradientTransform="matrix(1 0 0 -1 0 -414)">
+			<stop  offset="0" style="stop-color:#825E46"/>
+			<stop  offset="9.840000e-02" style="stop-color:#7B5942"/>
+			<stop  offset="0.6878" style="stop-color:#563D2A"/>
+			<stop  offset="1" style="stop-color:#483221"/>
+		</linearGradient>
+		<polygon class="st3" points="64.4,445.4 291.3,256 64.4,66.6 		"/>
+	</g>
+</g>
+<g id="g37_1_">
+	<path id="path39_1_" class="st4" d="M392.2,291.3L291.4,392.2c-19.5,19.5-51.2,19.5-70.7,0L119.8,291.3
+		c-19.5-19.5-19.5-51.2,0-70.7l100.8-100.8c19.5-19.5,51.2-19.5,70.7,0l100.8,100.8C411.7,240.1,411.7,271.8,392.2,291.3z"/>
+</g>
+<g id="g41">
+	<polygon id="polygon43" class="st5" points="179.8,212 256,168 332.2,212 332.2,300 256,344 179.8,300 	"/>
+	<g id="g45">
+		<path id="path_6_" class="st6" d="M225.5,273.6v-35.2l30.5-17.6l30.5,17.6v35.2L256,291.2L225.5,273.6z"/>
+		<path id="path_5_" class="st7" d="M321.9,223.8L295.5,239l-0.4,33.6l26.6,15.8L321.9,223.8z"/>
+		<path id="path_4_" class="st8" d="M190.1,288.2l26.4-15.2l0.4-33.6l-26.6-15.8L190.1,288.2z"/>
+		<path id="path_3_" class="st9" d="M250.9,329.2v-30.5L222,281.6l-27,15.1L250.9,329.2z"/>
+		<path id="path_2_" class="st10" d="M316.9,297l-26.4-15.2l-29.3,16.5l-0.4,30.9L316.9,297z"/>
+		<path id="path_1_" class="st11" d="M195.1,215l26.4,15.2l29.3-16.5l0.4-30.9L195.1,215z"/>
+		<path id="path" class="st12" d="M261.1,182.8v30.5l28.9,17.1l27-15.1L261.1,182.8z"/>
+	</g>
+</g>
+</svg>
