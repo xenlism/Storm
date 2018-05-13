@@ -1,4 +1,4 @@
-Source: xenlism-storm
+Source: xenlism-storm-icon-theme
 Section: gnome
 Priority: optional
 Maintainer: Nattapong Pullkhow <ixenatt@gmail.com>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://xenlism.github.io/storm
 
-Package: xenlism-storm
+Package: xenlism-storm-icon-theme
 Architecture: all
 Description: Minimalism And Realism Mix and match, macOS icon Style
  xenlism is Computer Graphic And Programming project to make something better.

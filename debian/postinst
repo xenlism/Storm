@@ -1,0 +1,6 @@
+#!/bin/sh
+gtk-update-icon-cache -f /usr/share/icons/Xenlism-Storm
+gtk-update-icon-cache -f /usr/share/icons/Xenlism-Storm-Xdwaita-FineDay
+gtk-update-icon-cache -f /usr/share/icons/Xenlism-Storm-Xdwaita-Mint
+gtk-update-icon-cache -f /usr/share/icons/Xenlism-Storm-Xdwaita-Origin
+exit 0

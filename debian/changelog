@@ -1,8 +1,11 @@
-xenlism-storm (2018.05beta1) bionic; urgency=medium
+xenlism-storm-icon-theme (2018.05beta2) bionic; urgency=medium
+
+  * Add New icon Add Xwaita folder
+
+ -- Nattapong Pullkhow <ixenatt@gmail.com>  Sun, 13 May 2018 11:11:11 +0700
+
+xenlism-storm-icon-theme (2018.05beta1) bionic; urgency=medium
 
   * Initial
 
  -- Nattapong Pullkhow <ixenatt@gmail.com>  Sun, 6 May 2018 20:20:20 +0700
-
-
-

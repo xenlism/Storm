@@ -1,0 +1,15 @@
+[Icon Theme]
+Name=Xenlism Storm Xdwaita Origin
+Comment=Brown Adwaita Folder Icons in xenlism style.
+Inherits=Xenlism-Storm,Paper,Adwaita,elementary,hicolor
+
+# Directory list
+Directories=Places
+# Actions
+
+[Places]
+Context=Places
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
