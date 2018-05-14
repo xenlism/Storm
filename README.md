@@ -51,12 +51,12 @@ sudo apt-get install xenlism-storm-icon-theme
 #Debian
 sudo nano /etc/apt/sources.list     
 
-add this line to file.  
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38    
+add this line to file.      
 deb http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main   
 deb-src http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main    
 
 Run command    
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38   
 sudo apt-get update   
 sudo apt-get install xenlism-storm-icon-theme   
 
