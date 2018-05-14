@@ -20,43 +20,45 @@ every buck of your donation help me to create newthing.
 #Donate   
 Paypal: https://paypal.me/xenatt  
 Bitcoin:32hEYx2CVFQxCuimR7ExajqxJfr8jtdYY1    
-[b]#How To install Xenlism Storm?[/b]
-How to Install Xenlism Storm?   
-Xenlism : Storm Support Ubuntu/Debian Apt-Get Repository.
 
-#Arch linux
-sudo nano /etc/pacman.conf
+#How To install Xenlism Storm?    
+How to Install Xenlism Storm?      
+Xenlism : Storm Support Ubuntu/Debian Apt-Get Repository.    
 
-add this line to file.
+#Arch linux    
+sudo nano /etc/pacman.conf   
 
-[xenlism-arch]
-SigLevel = Optional TrustAll
-Server = http://downloads.sourceforge.net/project/xenlism-wildfire/repo/arch
+add this line to file.    
 
-run command
-sudo pacman -Syyu
-sudo pacman -Sy xenlism-storm-icon-theme
+[xenlism-arch]    
+SigLevel = Optional TrustAll    
+Server = http://downloads.sourceforge.net/project/xenlism-wildfire/repo/arch    
+   
+run command   
+sudo pacman -Syyu   
+sudo pacman -Sy xenlism-storm-icon-theme   
+   
+#Arch Linux Aur   
+yaourt -S xenlism-storm-icon-theme   
 
-Arch Linux Aur
-yaourt -S xenlism-storm-icon-theme
 
-
-#Ubuntu
-sudo add-apt-repository ppa:xenatt/xenlism
-sudo apt-get update
-sudo apt-get install xenlism-storm-icon-theme
+#Ubuntu   
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38   
+sudo add-apt-repository ppa:xenatt/xenlism    
+sudo apt-get update   
+sudo apt-get install xenlism-storm-icon-theme    
 
 #Debian
-sudo nano /etc/apt/sources.list
+sudo nano /etc/apt/sources.list     
 
-add this line to file.
+add this line to file.  
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38    
+deb http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main   
+deb-src http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main    
 
-deb http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main 
-deb-src http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main 
-
-Run command
-sudo apt-get update
-sudo apt-get install xenlism-storm-icon-theme
+Run command    
+sudo apt-get update   
+sudo apt-get install xenlism-storm-icon-theme   
 
 ![App](https://raw.githubusercontent.com/xenlism/Storm/master/screenshot/storm_app_cover.png)  
 ![place](https://raw.githubusercontent.com/xenlism/Storm/master/screenshot/storm_place_cover.png)  
