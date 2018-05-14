@@ -1,0 +1,37 @@
+# Maintainer: Nattapong Pullkhow <ixenatt at gmail dot com>
+# Contributor: Nattapong Pullkhow <ixenatt at gmail dot com>
+
+pkgname=xenlism-storm-icon-theme
+_themename=Storm
+pkgver=2018.05beta2
+pkgrel=1
+depends=('gtk-update-icon-cache')
+makedepends=('git')
+conflicts=("${_pkgname}")
+provides=("${_pkgname}")
+replaces=("${_pkgname}")
+pkgdesc="None form icons theme for X11 Desktop"
+arch=("any")
+url="https://github.com/xenlism/Storm"
+license=("GPL3")
+provides=("$pkgname")
+conflicts=("$pkgname")
+replaces=("$pkgname")
+source=("https://github.com/xenlism/Storm/archive/$pkgver.tar.gz")
+md5sums=('6d5b2df688c1a2016c87af6e1e2d1c08')
+package() {
+	cd "$srcdir/$_themename-$pkgver"
+	install -d "${pkgdir}/usr/share/icons/"
+	cp -r icons $pkgdir/usr/share/
+	find "${pkgdir}/usr/share/icons" -type d -exec chmod 755 '{}' \;
+	find "${pkgdir}/usr/share/icons" -type f -exec chmod 644 '{}' \;
+	#Install License
+	install -Dm644 LICENSE "$pkgdir/usr/share/licenses/Xenlism-Storm/LICENSE"
+}
+
+post_install() {
+  gtk-update-icon-cache -f '/usr/share/icons/Xenlism-Storm
+  gtk-update-icon-cache -f '/usr/share/icons/Xenlism-Storm-Xdwaita-FineDay
+  gtk-update-icon-cache -f '/usr/share/icons/Xenlism-Storm-Xdwaita-Mint
+  gtk-update-icon-cache -f '/usr/share/icons/Xenlism-Storm-Xdwaita-Origin
+}
