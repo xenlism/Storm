@@ -7,16 +7,12 @@ pkgver=2018.05beta2
 pkgrel=1
 depends=('gtk-update-icon-cache')
 makedepends=('git')
-conflicts=("${_pkgname}")
-provides=("${_pkgname}")
-replaces=("${_pkgname}")
 pkgdesc="None form icons theme for X11 Desktop"
 arch=("any")
 url="https://github.com/xenlism/Storm"
 license=("GPL3")
 provides=("$pkgname")
 conflicts=("$pkgname")
-replaces=("$pkgname")
 source=("https://github.com/xenlism/Storm/archive/$pkgver.tar.gz")
 md5sums=('6d5b2df688c1a2016c87af6e1e2d1c08')
 package() {
