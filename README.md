@@ -31,8 +31,8 @@ run command
 sudo pacman -Syyu
 sudo pacman -Sy xenlism-storm-icon-theme
 
-#Arch Linux Aur    
-yaourt -S xenlism-storm-icon-theme      
+#Arch Linux Aur               
+yaourt -S xenlism-storm-icon-theme                          
 
 
 #Ubuntu     
@@ -41,30 +41,30 @@ sudo add-apt-repository ppa:xenatt/xenlism
 sudo apt-get update
 sudo apt-get install xenlism-storm-icon-theme
 
-#Debian     
-sudo nano /etc/apt/sources.list      
+#Debian            
+sudo nano /etc/apt/sources.list                           
 
-add this line to file.     
-deb http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main      
-deb-src http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main       
+add this line to file.                  
+deb http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main                      
+deb-src http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main                         
 
-Run command
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38
-sudo apt-get update
-sudo apt-get install xenlism-storm-icon-theme
+Run command                           
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38                           
+sudo apt-get update                       
+sudo apt-get install xenlism-storm-icon-theme                              
 
 #Fedora       
-sudo dnf config-manager --add-repo https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/xenlism-fedora.repo     
-sudo rpm --import https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/ixenatt%40gmail.com.pub     
-sudo dnf update    
-sudo dnf install xenlism-storm-icon-theme     
+sudo dnf config-manager --add-repo https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/xenlism-fedora.repo               
+sudo rpm --import https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/ixenatt%40gmail.com.pub              
+sudo dnf update      
+sudo dnf install xenlism-storm-icon-theme                      
 
 
-#CentOS       
-sudo wget https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/xenlism-fedora.repo -O /etc/yum.repos.d/xenlism-fedora.repo    
-sudo rpm --import https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/ixenatt%40gmail.com.pub       
-sudo yum update     
-sudo yum install xenlism-storm-icon-theme    
+#CentOS             
+sudo wget https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/xenlism-fedora.repo -O /etc/yum.repos.d/xenlism-fedora.repo            
+sudo rpm --import https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/ixenatt%40gmail.com.pub             
+sudo yum update        
+sudo yum install xenlism-storm-icon-theme          
 
 #openSuse                       
 sudo zypper ar -f -c https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/ xenlism-fedora                   
