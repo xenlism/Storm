@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Xenlism Storm Xdwaita Mint
 Comment=Green Mint Adwaita Folder Icons in xenlism style. Color By Gabriele Musco (https://github.com/GabMus)
-Inherits=Xenlism-Storm,PaperAdwaita,elementary,hicolor
+Inherits=Xenlism-Storm,PaperAdwaita,elementary,hicolor,breeze,oxygen
 
 # Directory list
 Directories=Places
