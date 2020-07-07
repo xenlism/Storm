@@ -12,5 +12,5 @@ git clone https://github.com/xenlism/storm.git /tmp/Storm
 
 if [ "$(ls -a /tmp/Storm/icons/ | grep -c Storm)" != "0" ]
 then
-	cp -r /tmp/Storm/*Storm/ ~/.icons/
+	cp -r /tmp/Storm/icons/* ~/.icons/
 fi
