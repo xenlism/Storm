@@ -1,8 +1,5 @@
 #!/bin/bash
-if [ -f /tmp/Storm/ ]
-then
-	rm -rf /tmp/Storm/
-fi
+rm -rf /tmp/Storm/
 if [ "$(ls -a ~/.icons/ | grep -c Storm)" != "0" ]
 then
 	rm -rf ~/.icons/*Storm/
